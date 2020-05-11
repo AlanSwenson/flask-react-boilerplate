@@ -19,6 +19,8 @@ You need:
 - Yarn
 
 ```shell
+git clone <repo>
+cd flask-react-boilerplate
 pip install pipenv
 pipenv shell
 pipenv install
@@ -27,13 +29,14 @@ pipenv install
 ## Run
 
 ```shell
-pipenv shell
+pipenv shell (if not still in shell from step above)
 make backend
 ```
 
 In a separate terminal  
 
 ```shell
+cd flask-react-boilerplate
 make frontend
 ```
 
