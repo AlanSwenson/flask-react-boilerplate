@@ -18,14 +18,18 @@ You need:
 - NodeJS
 - Yarn
 
-`pip install pipenv`
-`pipenv shell`
-`pipenv install`
+```shell
+pip install pipenv
+pipenv shell
+pipenv install
+```
 
 ## Run
 
-`pipenv shell`
-`make backend`
+```shell
+pipenv shell
+make backend
+```
 
-In a separate terminal
+In a separate terminal  
 `make frontend`
