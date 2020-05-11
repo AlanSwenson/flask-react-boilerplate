@@ -32,4 +32,10 @@ make backend
 ```
 
 In a separate terminal  
-`make frontend`
+
+```shell
+make frontend
+```
+
+[http://localhost:3000](http://localhost:3000) should look like this~!
+![React Success](img/react-success.png)
