@@ -37,6 +37,7 @@ In a separate terminal
 
 ```shell
 cd flask-react-boilerplate
+make init
 make frontend
 ```
 
